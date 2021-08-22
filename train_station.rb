@@ -72,7 +72,6 @@ class Train
     @number_of_carriages = number_of_carriages
     @speed = 0
     @current_station_index = 0
-
     puts "Train № #{number} is formed. Train type: #{type}. Number of carriages: #{number_of_carriages}."
   end
 
